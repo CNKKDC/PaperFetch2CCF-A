@@ -1,3 +1,4 @@
-__pycache__/build_html.cpython-310.pyc
-__pycache__/extract.cpython-310.pyc
-__pycache__/main.cpython-310.pyc
+__pycache__
+__pycache__
+__pycache__
+*.html
