@@ -1,0 +1,110 @@
+body {
+    padding-top: 80px;
+}
+
+div {
+    display: block;
+    margin: 35px 20px 10px 20px;
+    font-size: 16pt;
+    font-weight: bold;
+}
+
+li {
+    font-size: 14pt;
+    display: block;
+    padding-left: 5pt;
+    line-height: 28pt;
+}
+
+li a {
+    color: #2f3237;
+    text-decoration: none;
+}
+
+li p {
+    display: inline;
+    color: #6a7177;
+    text-decoration: none;
+}
+
+li a:hover {
+    color: #241d1c;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+li tag {
+    color: #6a7177;
+    font-size: 12pt;
+    line-height: 14pt;
+    background: #eeeeee;
+    padding: 0 10px;
+    border-radius: 6px;
+}
+
+pin {
+    color: #ffffff;
+    font-size: 12pt;
+    line-height: 14pt;
+    background: #14a446;
+    padding: 0 10px;
+    border-radius: 6px;
+    user-select: none;
+}
+
+tag, span, pin {
+    margin-right: 10px;
+}
+
+div#search {
+    display: block;
+    position: fixed;
+    width: 950px;
+    height: 40px;
+    margin: 0;
+    padding: 20px;
+    top: 20px;
+    text-align: center;
+    background: #aeb7bb80;
+    backdrop-filter: blur(5px);
+    box-shadow: #bcbcbc 0px 0px 10px 0px;
+    left: 150px;
+    border-radius: 20px;
+}
+
+input#searchInput {
+    border: none;
+    display: inline-block;
+    font-size: 16pt;
+    line-height: 16pt;
+    width: 600px;
+    border-radius: 12px;
+    height: 24pt;
+    background: #ffffffa3;
+    padding-left: 20px;
+    margin-right: 20px;
+}
+
+button {
+    border: none;
+    display: inline-block;
+    font-size: 14pt;
+    border-radius: 12px;
+    background: #00000080;
+    padding: 020px;
+    line-height: 0pt;
+    cursor: pointer;
+    color: #d5d5d5;
+}
+
+button:hover {
+    border: none;
+    display: inline-block;
+    font-size: 14pt;
+    border-radius: 12px;
+    background: #000000c3;
+    padding: 020px;
+    line-height: 0pt;
+    cursor: pointer;
+    color: #FFFFFF;
+}

@@ -1,0 +1,247 @@
+# IEEELink.txt（One directory link per line）
+
+## A, 计算机体系结构/并行与分布计算/存储系统 (期刊)
+# ACM Transactions on Computer Systems, TOCS, ACM
+https://dblp.uni-trier.de/db/journals/tocs/index.html
+# ACM Transactions on Storage, TOS, ACM
+https://dblp.uni-trier.de/db/journals/tos/index.html
+# IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, TCAD, IEEE
+https://dblp.uni-trier.de/db/journals/tcad/index.html
+# IEEE Transactions on Computers, TC, IEEE
+https://dblp.uni-trier.de/db/journals/tc/index.html
+# IEEE Transactions on Parallel and Distributed Systems, TPDS, IEEE
+https://dblp.uni-trier.de/db/journals/tpds/index.html
+# ACM Transactions on Architecture and Code Optimization, TACO, ACM
+https://dblp.uni-trier.de/db/journals/taco/index.html
+
+## A, 计算机体系结构/并行与分布计算/存储系统 (会议)
+# ACM SIGPLAN Symposium on Principles & Practice of Parallel Programming, PPoPP, ACM
+https://dblp.uni-trier.de/db/conf/ppopp/index.html
+# USENIX Conference on File and Storage Technologies, FAST, USENIX
+https://dblp.uni-trier.de/db/conf/fast/index.html
+# Design Automation Conference, DAC, ACM
+https://dblp.uni-trier.de/db/conf/dac/index.html
+# IEEE International Symposium on High Performance Computer Architecture, HPCA, IEEE
+https://dblp.uni-trier.de/db/conf/hpca/index.html
+# IEEE/ACM International Symposium on Microarchitecture, MICRO, IEEE/ACM
+https://dblp.uni-trier.de/db/conf/micro/index.html
+# International Conference for High Performance Computing, Networking, Storage, and Analysis, SC, IEEE
+https://dblp.uni-trier.de/db/conf/sc/index.html
+# International Conference on Architectural Support for Programming Languages and Operating Systems, ASPLOS, ACM
+https://dblp.uni-trier.de/db/conf/asplos/index.html
+# International Symposium on Computer Architecture, ISCA, ACM/IEEE
+https://dblp.uni-trier.de/db/conf/isca/index.html
+# USENIX Annual Technical Conference, USENIX ATC, USENIX
+https://dblp.uni-trier.de/db/conf/usenix/index.html
+# European Conference on Computer Systems, EuroSys, ACM
+https://dblp.uni-trier.de/db/conf/eurosys/index.html
+
+## A, 计算机网络 (期刊)
+# IEEE Journal on Selected Areas in Communications, JSAC, IEEE
+https://dblp.uni-trier.de/db/journals/jsac/index.html
+# IEEE Transactions on Mobile Computing, TMC, IEEE
+https://dblp.uni-trier.de/db/journals/tmc/index.html
+# IEEE/ACM Transactions on Networking, TON, IEEE/ACM
+https://dblp.uni-trier.de/db/journals/ton/index.html
+
+## A, 计算机网络 (会议)
+# ACM International Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, SIGCOMM, ACM
+https://dblp.uni-trier.de/db/conf/sigcomm/index.html
+# ACM International Conference on Mobile Computing and Networking, MobiCom, ACM
+https://dblp.uni-trier.de/db/conf/mobicom/index.html
+# IEEE International Conference on Computer Communications, INFOCOM, IEEE
+https://dblp.uni-trier.de/db/conf/infocom/index.html
+# Symposium on Network System Design and Implementation, NSDI, USENIX
+https://dblp.uni-trier.de/db/conf/nsdi/index.html
+
+## A, 网络与信息安全 (期刊)
+# IEEE Transactions on Dependable and Secure Computing, TDSC, IEEE
+https://dblp.uni-trier.de/db/journals/tdsc/index.html
+# IEEE Transactions on Information Forensics and Security, TIFS, IEEE
+https://dblp.uni-trier.de/db/journals/tifs/index.html
+# Journal of Cryptology, Journal of Cryptology, Springer
+https://dblp.uni-trier.de/db/journals/joc/index.html
+
+## A, 网络与信息安全 (会议)
+# ACM Conference on Computer and Communications Security, CCS, ACM
+https://dblp.uni-trier.de/db/conf/ccs/index.html
+# International Conference on the Theory and Applications of Cryptographic Techniques, EUROCRYPT, Springer
+https://dblp.uni-trier.de/db/conf/eurocrypt/index.html
+# IEEE Symposium on Security and Privacy, S&P, IEEE
+https://dblp.uni-trier.de/db/conf/sp/index.html
+# International Cryptology Conference, CRYPTO, Springer
+https://dblp.uni-trier.de/db/conf/crypto/index.html
+# USENIX Security Symposium, USENIX Security, USENIX Association
+https://dblp.uni-trier.de/db/conf/uss/index.html
+# Network and Distributed System Security Symposium, NDSS, ISOC
+https://dblp.uni-trier.de/db/conf/ndss/index.html
+
+## A, 软件工程/系统软件/程序设计语言 (期刊)
+# ACM Transactions on Programming Languages and Systems, TOPLAS, ACM
+https://dblp.uni-trier.de/db/journals/toplas/index.html
+# ACM Transactions on Software Engineering and Methodology, TOSEM, ACM
+https://dblp.uni-trier.de/db/journals/tosem/index.html
+# IEEE Transactions on Software Engineering, TSE, IEEE
+https://dblp.uni-trier.de/db/journals/tse/index.html
+# IEEE Transactions on Services Computing, TSC, IEEE
+https://dblp.uni-trier.de/db/journals/tsc/index.html
+
+## A, 软件工程/系统软件/程序设计语言 (会议)
+# ACM SIGPLAN Conference on Programming Language Design and Implementation, PLDI, ACM
+https://dblp.uni-trier.de/db/conf/pldi/index.html
+# ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, POPL, ACM
+https://dblp.uni-trier.de/db/conf/popl/index.html
+# ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, FSE/ESEC, ACM
+https://dblp.uni-trier.de/db/conf/sigsoft/index.html
+# ACM Symposium on Operating Systems Principles, SOSP, ACM
+https://dblp.uni-trier.de/db/conf/sosp/index.html
+# Conference on Object-Oriented Programming Systems, Languages, and Applications, OOPSLA, ACM
+https://dblp.uni-trier.de/db/conf/oopsla/index.html
+# International Conference on Automated Software Engineering, ASE, IEEE/ACM
+https://dblp.uni-trier.de/db/conf/kbse/index.html
+# International Conference on Software Engineering, ICSE, ACM/IEEE
+https://dblp.uni-trier.de/db/conf/icse/index.html
+# International Symposium on Software Testing and Analysis, ISSTA, ACM
+https://dblp.uni-trier.de/db/conf/issta/index.html
+# USENIX Symposium on Operating Systems Design and Implementation, OSDI, USENIX
+https://dblp.uni-trier.de/db/conf/osdi/index.html
+# International Symposium on Formal Methods, FM, FME
+https://dblp.uni-trier.de/db/conf/fm/index.html
+
+## A, 数据库/数据挖掘/内容检索 (期刊)
+# ACM Transactions on Database Systems, TODS, ACM
+https://dblp.uni-trier.de/db/journals/tods/index.html
+# ACM Transactions on Information Systems, TOIS, ACM
+https://dblp.uni-trier.de/db/journals/tois/index.html
+# IEEE Transactions on Knowledge and Data Engineering, TKDE, IEEE
+https://dblp.uni-trier.de/db/journals/tkde/index.html
+# The VLDB Journal, VLDBJ, Springer
+https://dblp.uni-trier.de/db/journals/vldb/index.html
+
+## A, 数据库/数据挖掘/内容检索 (会议)
+# ACM SIGMOD Conference, SIGMOD, ACM
+https://dblp.uni-trier.de/db/conf/sigmod/index.html
+# ACM SIGKDD Conference on Knowledge Discovery and Data Mining, SIGKDD, ACM
+https://dblp.uni-trier.de/db/conf/kdd/index.html
+# IEEE International Conference on Data Engineering, ICDE, IEEE
+https://dblp.uni-trier.de/db/conf/icde/index.html
+# International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR, ACM
+https://dblp.uni-trier.de/db/conf/sigir/index.html
+# International Conference on Very Large Data Bases, VLDB, Morgan Kaufmann/ACM
+https://dblp.uni-trier.de/db/conf/vldb/index.html
+
+### **计算机科学理论 (A类期刊)**
+
+## A, 计算机科学理论 (期刊)
+# IEEE Transactions on Information Theory, TIT, IEEE
+https://dblp.uni-trier.de/db/journals/tit/index.html
+# Information and Computation, IANDC, Elsevier
+https://dblp.uni-trier.de/db/journals/iandc/index.html
+# SIAM Journal on Computing, SICOMP, SIAM
+https://dblp.uni-trier.de/db/journals/siamcomp/index.html
+
+### **计算机科学理论 (A类会议)**
+
+## A, 计算机科学理论 (会议)
+# ACM Symposium on the Theory of Computing, STOC, ACM
+https://dblp.uni-trier.de/db/conf/stoc/index.html
+# ACM-SIAM Symposium on Discrete Algorithms, SODA, SIAM
+https://dblp.uni-trier.de/db/conf/soda/index.html
+# International Conference on Computer Aided Verification, CAV, Springer
+https://dblp.uni-trier.de/db/conf/cav/index.html
+# IEEE Annual Symposium on Foundations of Computer Science, FOCS, IEEE
+https://dblp.uni-trier.de/db/conf/focs/index.html
+# ACM/IEEE Symposium on Logic in Computer Science, LICS, IEEE
+https://dblp.uni-trier.de/db/conf/lics/index.html
+
+### **计算机图形学与多媒体 (A类期刊)**
+
+## A, 计算机图形学与多媒体 (期刊)
+# ACM Transactions on Graphics, TOG, ACM
+https://dblp.uni-trier.de/db/journals/tog/index.html
+# IEEE Transactions on Image Processing, TIP, IEEE
+https://dblp.uni-trier.de/db/journals/tip/index.html
+# IEEE Transactions on Visualization and Computer Graphics, TVCG, IEEE
+https://dblp.uni-trier.de/db/journals/tvcg/index.html
+
+### **计算机图形学与多媒体 (A类会议)**
+
+## A, 计算机图形学与多媒体 (会议)
+# ACM International Conference on Multimedia, ACM MM, ACM
+https://dblp.uni-trier.de/db/conf/mm/index.html
+# ACM Special Interest Group on Computer Graphics, SIGGRAPH, ACM
+https://dblp.uni-trier.de/db/conf/siggraph/index.html
+# IEEE Virtual Reality, VR, IEEE
+https://dblp.uni-trier.de/db/conf/vr/index.html
+# IEEE Visualization Conference, IEEE VIS, IEEE
+https://dblp.uni-trier.de/db/conf/visualization/index.html
+
+### **人工智能 (A类期刊)**
+
+## A, 人工智能 (期刊)
+# Artificial Intelligence, AI, Elsevier
+https://dblp.uni-trier.de/db/journals/ai/index.html
+# IEEE Transactions on Pattern Analysis and Machine Intelligence, TPAMI, IEEE
+https://dblp.uni-trier.de/db/journals/pami/index.html
+# International Journal of Computer Vision, IJCV, Springer
+https://dblp.uni-trier.de/db/journals/ijcv/index.html
+# Journal of Machine Learning Research, JMLR, MIT Press
+https://dblp.uni-trier.de/db/journals/jmlr/index.html
+
+### **人工智能 (A类会议)**
+
+## A, 人工智能 (会议)
+# AAAI Conference on Artificial Intelligence, AAAI, AAAI
+https://dblp.uni-trier.de/db/conf/aaai/index.html
+# Conference on Neural Information Processing Systems, NeurIPS, MIT Press
+https://dblp.uni-trier.de/db/conf/nips/index.html
+# Annual Meeting of the Association for Computational Linguistics, ACL, ACL
+https://dblp.uni-trier.de/db/conf/acl/index.html
+# IEEE/CVF Computer Vision and Pattern Recognition Conference, CVPR, IEEE
+https://dblp.uni-trier.de/db/conf/cvpr/index.html
+# International Conference on Computer Vision, ICCV, IEEE
+https://dblp.uni-trier.de/db/conf/iccv/index.html
+# International Conference on Machine Learning, ICML, ACM
+https://dblp.uni-trier.de/db/conf/icml/index.html
+# International Joint Conference on Artificial Intelligence, IJCAI, Morgan Kaufmann
+https://dblp.uni-trier.de/db/conf/ijcai/index.html
+
+### **人机交互与普适计算 (A类期刊)**
+
+## A, 人机交互与普适计算 (期刊)
+# ACM Transactions on Computer-Human Interaction, TOCHI, ACM
+https://dblp.uni-trier.de/db/journals/tochi/index.html
+# International Journal of Human-Computer Studies, IJHCS, Elsevier
+https://dblp.uni-trier.de/db/journals/ijmms/index.html
+
+### **人机交互与普适计算 (A类会议)**
+
+## A, 人机交互与普适计算 (会议)
+# ACM Conference On Computer-Supported Cooperative Work And Social Computing, CSCW, ACM
+https://dblp.uni-trier.de/db/conf/cscw/index.html
+# ACM Conference on Human Factors in Computing Systems, CHI, ACM
+https://dblp.uni-trier.de/db/conf/chi/index.html
+# ACM international joint conference on Pervasive and Ubiquitous Computing, UbiComp, ACM
+https://dblp.uni-trier.de/db/conf/huc/index.html
+# ACM Symposium on User Interface Software and Technology, UIST, ACM
+https://dblp.uni-trier.de/db/conf/uist/index.html
+
+### **交叉/综合/新兴 (A类期刊)**
+
+## A, 交叉/综合/新兴 (期刊)
+# Journal of the ACM, JACM, ACM
+https://dblp.uni-trier.de/db/journals/jacm/index.html
+# Proceedings of the IEEE, Proc. IEEE, IEEE
+https://dblp.uni-trier.de/db/journals/pieee/index.html
+# Science China Information Sciences, SCIS, Science in China Press/Springer
+https://dblp.uni-trier.de/db/journals/chinaf/index.html
+
+### **交叉/综合/新兴 (A类会议)**
+
+## A, 交叉/综合/新兴 (会议)
+# International World Wide Web Conference, WWW, ACM
+https://dblp.uni-trier.de/db/conf/www/index.html
+# IEEE Real-Time Systems Symposium, RTSS, IEEE
+https://dblp.uni-trier.de/db/conf/rtss/index.html
+# Conference on Web and Internet Economics, WINE, Springer
+https://dblp.org/db/conf/wine/index.html
