@@ -1,5 +1,6 @@
 import html
 import json
+import re
 
 def write_html(items, html_path: str, css_path: str):
     def get(it, k, default=""):
@@ -161,6 +162,9 @@ if __name__ == "__main__":
     from main import read_config
     cfg = read_config("Config.ini")
 
+    m = re.search(r"(\d{4})-(\d{4})", cfg["output_json"])
+    if m:
+        year1, year2 = m.groups()
     with open(cfg["output_json"], "r", encoding="utf-8") as f:
         data = json.load(f)
-        write_html(data, "index.html", "styles.css")
+        write_html(data, f"index-{year1}-{year2}.html", "styles.css")

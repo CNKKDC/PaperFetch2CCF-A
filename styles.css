@@ -65,11 +65,12 @@ div#search {
     padding: 20px;
     top: 20px;
     text-align: center;
-    background: #aeb7bb80;
     backdrop-filter: blur(5px);
-    box-shadow: #bcbcbc 0px 0px 10px 0px;
+    box-shadow: #e6e6e6 0px 0px 20px 5px;
     left: 150px;
     border-radius: 20px;
+    border: 2px solid #ededed;
+    background: linear-gradient(0deg, #c6c6c691, #cacaca7d);
 }
 
 input#searchInput {
@@ -90,11 +91,11 @@ button {
     display: inline-block;
     font-size: 14pt;
     border-radius: 12px;
-    background: #00000080;
-    padding: 020px;
+    background: linear-gradient(0deg, #0000005c, #8e8e8e78);
+    padding: 20px;
     line-height: 0pt;
     cursor: pointer;
-    color: #d5d5d5;
+    color: #F5F5F5;
 }
 
 button:hover {
@@ -102,7 +103,7 @@ button:hover {
     display: inline-block;
     font-size: 14pt;
     border-radius: 12px;
-    background: #000000c3;
+    background: linear-gradient(0deg, #8e8e8e78, #0000005c);
     padding: 020px;
     line-height: 0pt;
     cursor: pointer;
