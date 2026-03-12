@@ -87,25 +87,28 @@ input#searchInput {
 }
 
 button {
-    border: none;
     display: inline-block;
     font-size: 14pt;
     border-radius: 12px;
-    background: linear-gradient(0deg, #0000005c, #8e8e8e78);
     padding: 20px;
     line-height: 0pt;
     cursor: pointer;
-    color: #F5F5F5;
+    color: #5c5c5c;
+    box-shadow: #cacaca 0px 0px 20px 5px;
+    border: 1px solid #dbdbdb;
+    background: linear-gradient(0deg, #e3e3e391, #efefef7d);
+    margin-left: 12px;
 }
 
 button:hover {
-    border: none;
     display: inline-block;
     font-size: 14pt;
     border-radius: 12px;
-    background: linear-gradient(0deg, #8e8e8e78, #0000005c);
-    padding: 020px;
+    padding: 20px;
     line-height: 0pt;
     cursor: pointer;
-    color: #FFFFFF;
+    color: #5c5c5c;
+    box-shadow: none;
+    border: 1px solid #eaeaea;
+    background: linear-gradient(0deg, #fbfbfb91, #f5f5f57d);
 }
